@@ -89,5 +89,13 @@ p{
         display: none;
     }
 }
+@media screen and (max-width: 768px){
+   #feild{
+       width: 80%;
+   }
+   #terms-text{
+    padding-right: 10%;
+}
+}
 
 
