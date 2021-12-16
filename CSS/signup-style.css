@@ -99,4 +99,16 @@ body {
     display: none;
   }
 }
+
+@media screen and (max-width: 768px) {
+  #field{
+    width: 80%;
+  }
+
+terms-text {
+  padding-right: 10%;
+}
+
+} 
+
 /*# sourceMappingURL=signup-style.css.map */
